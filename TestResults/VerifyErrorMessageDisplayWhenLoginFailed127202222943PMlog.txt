@@ -1,0 +1,27 @@
+Staring TimeStamp: 1/27/2022 2:29:43 PM
+Test: VerifyErrorMessageDisplayWhenLoginFailed
+[Info]: Browser: chrome
+[Info]: URL: http://bia-test2/gfweb/
+    [Step]: Click on Check Out link
+    [Step]: Sendkey invalidUserName to UserName textbox
+    [Step]: Sendkey invalidPassword to Password textbox
+    [Step]: Click on Login button
+    [Step]: Check error message displays when Login Failed
+    [Step]: Clear Text on UserName textbox
+    [Step]: Clear Text on Password textbox
+    [Step]: Sendkey  to UserName textbox
+    [Step]: Sendkey Global@123 to Password textbox
+    [Step]: Click on Login button
+    [Step]: Check error message displays when Login Failed
+    [Step]: Clear Text on UserName textbox
+    [Step]: Clear Text on Password textbox
+    [Step]: Sendkey  to UserName textbox
+    [Step]: Sendkey  to Password textbox
+    [Step]: Click on Login button
+    [Step]: Check error message displays when Login Failed
+    [Step]: Sendkey admin to UserName textbox
+    [Step]: Sendkey  to Password textbox
+    [Step]: Click on Login button
+    [Step]: Check error message displays when Login Failed
+[Info]: Test case: Gf.Web.Automation.Test.LoginTest.VerifyErrorMessageDisplayWhenLoginFailed is Passed
+[Info]: Close Browser

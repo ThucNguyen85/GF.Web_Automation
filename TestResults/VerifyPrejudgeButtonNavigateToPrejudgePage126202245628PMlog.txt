@@ -1,0 +1,15 @@
+Staring TimeStamp: 1/26/2022 4:56:28 PM
+Test: VerifyPrejudgeButtonNavigateToPrejudgePage
+[Info]: Browser: chrome
+[Info]: URL: http://bia-test2/gfweb/
+    [Step]: Click on Check Out link
+    [Step]: Sendkey admin to UserName textbox
+    [Step]: Sendkey Global@123 to Password textbox
+    [Step]: Click on Login button
+    [Step]: Click on Inspection Header
+    [Step]: Click on PreJudge Button row 1
+    [Step]: Wait for PreJudge page is loaded
+    [Step]: Close the Batch Completed pop up
+[ERROR]: Unable to find the element: Batch Complete pop up
+[Info]: Test case: Gf.Web.Automation.Test.CheckOutTest.VerifyPrejudgeButtonNavigateToPrejudgePage is Passed
+[Info]: Close Browser

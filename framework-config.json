@@ -1,0 +1,10 @@
+{
+    "driver": {
+        "browser": "chrome",
+        "waitsecond":  30
+    },
+
+    "test": {
+        "url": "http://bia-test2/gfweb/"
+    }
+}

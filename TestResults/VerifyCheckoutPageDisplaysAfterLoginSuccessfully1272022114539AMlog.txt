@@ -1,0 +1,10 @@
+Staring TimeStamp: 1/27/2022 11:45:39 AM
+Test: VerifyCheckoutPageDisplaysAfterLoginSuccessfully
+[Info]: Browser: chrome
+[Info]: URL: http://bia-test2/gfweb/
+    [Step]: Click on Check Out link
+    [Step]: Sendkey admin to UserName textbox
+    [Step]: Sendkey Global@123 to Password textbox
+    [Step]: Click on Login button
+[Info]: Test case: Gf.Web.Automation.Test.LoginTest.VerifyCheckoutPageDisplaysAfterLoginSuccessfully is Passed
+[Info]: Close Browser

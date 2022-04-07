@@ -1,0 +1,26 @@
+Staring TimeStamp: 1/27/2022 11:44:59 AM
+Test: VerifyTableIsSortedProperly
+[Info]: Browser: chrome
+[Info]: URL: http://bia-test2/gfweb/
+    [Step]: Click on Check Out link
+    [Step]: Sendkey admin to UserName textbox
+    [Step]: Sendkey Global@123 to Password textbox
+    [Step]: Click on Login button
+    [Step]: Click on Pouches Header
+    [Step]: Check the table is sorted by Pouches ascending
+    [Step]: Click on Pouches Header
+    [Step]: Check the table is sorted by Pouches descending
+    [Step]: Click on BatchID Header
+    [Step]: Check the table is sorted by BatchID ascending
+    [Step]: Click on BatchID Header
+    [Step]: Check the table is sorted by BatchID descending
+    [Step]: Click on Rolls Header
+    [Step]: Check the table is sorted by Rolls ascending
+    [Step]: Click on Rolls Header
+    [Step]: Check the table is sorted by Rolls descending
+    [Step]: Click on Inspection Header
+    [Step]: Check the table is sorted by Inspection ascending
+    [Step]: Click on Inspection Header
+    [Step]: Check the table is sorted by Inspection descending
+[Info]: Test case: Gf.Web.Automation.Test.CheckOutTest.VerifyTableIsSortedProperly is Passed
+[Info]: Close Browser
