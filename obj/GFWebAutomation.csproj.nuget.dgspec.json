@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GF_Automation\\GF.Web\\Gf.Web.Automation\\Gf.Web.Automation.csproj": {}
+    "D:\\GF_Automation\\GFWebAutomation\\GFWebAutomation.csproj": {}
   },
   "projects": {
-    "D:\\GF_Automation\\GF.Web\\Gf.Web.Automation\\Gf.Web.Automation.csproj": {
+    "D:\\GF_Automation\\GFWebAutomation\\GFWebAutomation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GF_Automation\\GF.Web\\Gf.Web.Automation\\Gf.Web.Automation.csproj",
-        "projectName": "Gf.Web.Automation",
-        "projectPath": "D:\\GF_Automation\\GF.Web\\Gf.Web.Automation\\Gf.Web.Automation.csproj",
+        "projectUniqueName": "D:\\GF_Automation\\GFWebAutomation\\GFWebAutomation.csproj",
+        "projectName": "GFWebAutomation",
+        "projectPath": "D:\\GF_Automation\\GFWebAutomation\\GFWebAutomation.csproj",
         "packagesPath": "C:\\Users\\Thuc\\.nuget\\packages\\",
-        "outputPath": "D:\\GF_Automation\\GF.Web\\Gf.Web.Automation\\obj\\",
+        "outputPath": "D:\\GF_Automation\\GFWebAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,45 +38,13 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "FluentAssertions": {
-              "target": "Package",
-              "version": "[6.1.0, )"
-            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.4.0, )"
             },
-            "NUnit.ConsoleRunner": {
-              "target": "Package",
-              "version": "[3.14.0, )"
-            },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.17.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
-            "ReportUnit": {
-              "target": "Package",
-              "version": "[1.2.1, )"
-            },
-            "RestSharp": {
-              "target": "Package",
-              "version": "[107.1.2, )"
-            },
-            "Selenium.Firefox.WebDriver": {
-              "target": "Package",
-              "version": "[0.27.0, )"
-            },
-            "Selenium.WebDriver": {
-              "target": "Package",
-              "version": "[3.141.0, )"
-            },
-            "Selenium.WebDriver.ChromeDriver": {
-              "target": "Package",
-              "version": "[97.0.4692.7100, )"
+              "version": "[3.15.1, )"
             },
             "nunit": {
               "target": "Package",

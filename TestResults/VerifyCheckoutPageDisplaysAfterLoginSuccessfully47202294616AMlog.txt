@@ -1,0 +1,5 @@
+Staring TimeStamp: 4/7/2022 9:46:16 AM
+Test: VerifyCheckoutPageDisplaysAfterLoginSuccessfully
+[Info]: Browser: chrome
+[Info]: Test case: Gf.Web.Automation.Test.LoginTest.VerifyCheckoutPageDisplaysAfterLoginSuccessfully is Failed:Error
+[Info]: Close Browser

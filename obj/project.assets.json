@@ -4191,7 +4191,6 @@
       "outputPath": "D:\\GF_Automation\\GF.Web\\Gf.Web.Automation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\GF_Automation\\GF.Web\\NuGet.Config",
         "C:\\Users\\Thuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4200,7 +4199,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://192.168.0.10:55695/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

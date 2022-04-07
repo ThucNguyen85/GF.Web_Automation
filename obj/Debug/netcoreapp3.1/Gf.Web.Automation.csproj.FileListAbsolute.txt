@@ -196,7 +196,7 @@ D:\GF_Automation\GF.Web\Gf.Web.Automation\obj\Debug\netcoreapp3.1\Gf.Web.Automat
 D:\GF_Automation\GF.Web\Gf.Web.Automation\obj\Debug\netcoreapp3.1\Gf.Web.Automation.dll
 D:\GF_Automation\GF.Web\Gf.Web.Automation\obj\Debug\netcoreapp3.1\Gf.Web.Automation.pdb
 D:\GF_Automation\GF.Web\Gf.Web.Automation\obj\Debug\netcoreapp3.1\Gf.Web.Automation.genruntimeconfig.cache
-D:\GF_Automation\GF.Web\Gf.Web.Automation\obj\Debug\netcoreapp3.1\Gf.Web.Automation.csprojAssemblyReference.cache
 D:\GF_Automation\GF.Web\Gf.Web.Automation\bin\Debug\netcoreapp3.1\RestSharp.dll
 D:\GF_Automation\GF.Web\Gf.Web.Automation\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 D:\GF_Automation\GF.Web\Gf.Web.Automation\bin\Debug\netcoreapp3.1\Gf.Web.Automation.exe
+D:\GF_Automation\GF.Web\Gf.Web.Automation\obj\Debug\netcoreapp3.1\Gf.Web.Automation.csproj.CoreCompileInputs.cache
